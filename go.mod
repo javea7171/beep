@@ -2,7 +2,7 @@ module github.com/javea7171/beep
 
 go 1.14
 
-replace github.com/faiface/beep => github.com/javea7171/beep
+replace github.com/javea7171/beep => github.com/javea7171/beep
 
 require (
 	github.com/gdamore/tcell v1.3.0

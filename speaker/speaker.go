@@ -2,8 +2,8 @@
 package speaker
 
 import (
-	"github.com/faiface/beep"
 	"github.com/hajimehoshi/oto/v2"
+	"github.com/javea7171/beep"
 	"github.com/pkg/errors"
 	"io"
 	"sync"

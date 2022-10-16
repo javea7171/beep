@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/faiface/beep"
-	"github.com/faiface/beep/generators"
-	"github.com/faiface/beep/speaker"
+	"github.com/javea7171/beep"
+	"github.com/javea7171/beep/generators"
+	"github.com/javea7171/beep/speaker"
 	"os"
 	"strconv"
 )

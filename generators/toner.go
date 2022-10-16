@@ -3,9 +3,9 @@
 package generators
 
 import (
-	"math"
 	"errors"
-	. "github.com/faiface/beep"
+	. "github.com/javea7171/beep"
+	"math"
 )
 
 // simple sinusoid tone generator

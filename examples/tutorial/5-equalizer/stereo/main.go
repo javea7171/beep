@@ -4,9 +4,9 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/faiface/beep"
-	"github.com/faiface/beep/effects"
-	"github.com/faiface/beep/speaker"
+	"github.com/javea7171/beep"
+	"github.com/javea7171/beep/effects"
+	"github.com/javea7171/beep/speaker"
 )
 
 func noise() beep.Streamer {

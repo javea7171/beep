@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/faiface/beep"
+	"github.com/javea7171/beep"
 )
 
 func TestResample(t *testing.T) {
